@@ -31,7 +31,7 @@ A modern food ordering web application built with React, Vite, Redux Toolkit, Fi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MueezurRehman/homefoodweb.git
+   git clone https://github.com/MueezurRehman/Home-Food-Website.git
    cd HomeFoodWeb
    ```
 2. Install dependencies:
